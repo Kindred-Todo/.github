@@ -3,7 +3,7 @@
 Kindred is the world's first productivity platform designed around the psychology of social media. We aim to cultivate a culture of mutual growth
 so that everyone can hit their goals.
 
-Visit out website [Here](kindredtodo.com:3000)
+Visit out website [Here](http://kindredtodo.com:3000)
 
 <!--
 
